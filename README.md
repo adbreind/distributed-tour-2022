@@ -9,6 +9,7 @@
 Our exploration will reveal not only major differences at the technical level, but also differences in culture, documentation, usability, open-source governance, and other areas. How easy are they to use, for real people in real organizations?
 
 We'll look at...
+
 ... Apache Spark, a well established cluster computing tool suited to many kinds of work. Among other languages, Apache Spark boasts SparkSQL, which allows a huge number of SQL-capable folks to work on big data.
 
 ... Ray, a newer, multi language framework from UC Berkeley's RISE lab. Ray focuses on simplifying the scaffolding beneath distributed task graphs and actor sets so that users can focus on simple distributed training, tuning, reinforcement learning, and more.
@@ -18,4 +19,5 @@ We'll look at...
 All of these projects focus in some way on ease of use, and all have expanded the abilities of normal humans to work with data at scale. But they are also each quite different. This workshop will feature hands-on coding (with supplied notebooks), to help you think about what's easy, what's hard, what life is like with these tools, and which ones may be right for your organization.
 
 Focus: Mostly Technical / Some Business
+
 Experience level: Intermediate
