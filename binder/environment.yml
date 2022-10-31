@@ -1,0 +1,19 @@
+name: tour
+channels:
+  - conda-forge
+  - cyclus
+  - defaults
+dependencies:
+  - python=3.9  
+  - jupyterlab
+  - dask
+  - distributed
+  - dask-labextension
+  - pyspark=3.3.1
+  - java-jdk
+  - tqdm
+  - python-graphviz
+  - pip:
+    - ray[air]
+    - xgboost_ray
+

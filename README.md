@@ -1,5 +1,3 @@
-# Placeholder for content for...
-
 ## ODSC West 2022 Session
 
 ### Democratizing Distributed Compute and Machine Learning: A Tour of Three Frameworks
