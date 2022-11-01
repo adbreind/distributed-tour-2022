@@ -13,6 +13,7 @@ dependencies:
   - java-jdk
   - tqdm
   - python-graphviz
+  - xgboost=1.6.2
   - pip:
     - ray[air]
     - xgboost_ray
