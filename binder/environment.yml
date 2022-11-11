@@ -15,6 +15,6 @@ dependencies:
   - python-graphviz
   - xgboost=1.6.2
   - pip:
-    - ray[air]
+    - ray[air]=2.0.1
     - xgboost_ray
 
