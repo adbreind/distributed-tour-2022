@@ -2,6 +2,13 @@
 
 ### Democratizing Distributed Compute and Machine Learning: A Tour of Three Frameworks
 
+__Please note: this is a "point in time" discussion of these frameworks from October 2022; due to the rapid evolution of these tools, this content may well be outdated by the time you look at it.__
+
+Run this in binder: 
+* https://tinyurl.com/odscwest22 (GESIS link, gives you 8GB RAM)
+* https://tinyurl.com/odscwest22g (GKE link, a little snappier startup, but only 2GB RAM)
+
+
 "Democratizing" has become a buzzword, and why not? Institutions of all types are discovering that almost every job role touches a bit of large-scale data analysis or data science, and sometimes more than just a bit! In this talk we'll look at the patterns, strengths, and weaknesses of three different open-source tools, which all claim to make large-scale computation simpler, easier, and more accessible to more people.
 
 Our exploration will reveal not only major differences at the technical level, but also differences in culture, documentation, usability, open-source governance, and other areas. How easy are they to use, for real people in real organizations?
